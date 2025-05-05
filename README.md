@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atharvvikaskadam3333@gmail.com**
 
-- ⚡ Fun fact **I can solve coding challenges faster than I can make a cup of coffee ☕—but both are essential for a productive day!**
+- ⚡ Fun fact: **I can solve coding challenges faster than I can make a cup of coffee ☕—but both are essential for a productive day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
