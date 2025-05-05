@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **MongoDB, React**
 
-- 📫 How to reach me **atharvvikaskadam3333@gmail.com**
+- 📫 How to reach me =>
+        Email Id : **atharvvikaskadam3333@gmail.com**
+        LinkedIn : **https://www.linkedin.com/in/atharv-kadam-605b77359**              
 
 - ⚡ Fun fact: **I can solve coding challenges faster than I can make a cup of coffee ☕—but both are essential for a productive day!**
 
