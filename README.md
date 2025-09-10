@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Vikas Kadam</h1>
-<h3 align="center">👋 Hey there! I'm an aspiring Full-Stack Developer with a strong foundation in C++ and Data Structures & Algorithms. I enjoy building responsive web applications using HTML, CSS, JavaScript, and Node.js, and constantly pushing myself to learn and grow. 🚀 This profile showcases my coding journey—projects, problem-solving, and hands-on learning. I’m always open to collaboration, feedback, and new opportunities!</h3>
+<h3 align="center">👋 Hey there! I'm an aspiring Full-Stack Developer with a strong foundation in Java and Data Structures & Algorithms. I enjoy building responsive web applications using HTML, CSS, JavaScript, and Node.js, and constantly pushing myself to learn and grow. 🚀 This profile showcases my coding journey—projects, problem-solving, and hands-on learning. I’m always open to collaboration, feedback, and new opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkadamcodes&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkadamcodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvkadamcodes" alt="atharvkadamcodes" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB, React**
 
