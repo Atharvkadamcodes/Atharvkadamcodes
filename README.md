@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharv Vikas Kadam</h1>
-<h3 align="center">👋 Hey there! I'm an aspiring Full-Stack Developer with a strong foundation in Java and Data Structures & Algorithms. I enjoy building responsive web applications using HTML, CSS, JavaScript, and Node.js, and constantly pushing myself to learn and grow. 🚀 This profile showcases my coding journey—projects, problem-solving, and hands-on learning. I’m always open to collaboration, feedback, and new opportunities!</h3>
+<h3 align="center">👋 Hey there! I'm a Full-Stack Developer with a strong foundation in Java and Data Structures & Algorithms. I enjoy building responsive web applications using HTML, CSS, JavaScript, and Node.js, and constantly pushing myself to learn and grow. 🚀 This profile showcases my coding journey—projects, problem-solving, and hands-on learning. I’m always open to collaboration, feedback, and new opportunities!</h3>
 
 
-- 🌱 I’m currently learning **MongoDB, React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me =>
         Email Id : **atharvvikaskadam3333@gmail.com**
